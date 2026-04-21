@@ -78,7 +78,10 @@ project/
 ---
 
 ## 👨‍💻 Author
-**Vikhyath Bharadwaj K S**  
+**Vikhyath Bharadwaj K S** 
+**vishal**
+**yaseen mulla**
+**Eshwar B H**
 Computer Science Student  
 
 ---
